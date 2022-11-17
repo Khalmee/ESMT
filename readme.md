@@ -4,8 +4,6 @@ A tool to assist with sound modding for [Northstar](https://northstar.tf/)
 
 ## Usage
 
-> ⚠️ Spaces in paths currently break the tool. ⚠️
-
 On one particular sound file there was a change in pitch once in game, while playing it from system it sounded fine.
 
 Launch `main.py` to run:
